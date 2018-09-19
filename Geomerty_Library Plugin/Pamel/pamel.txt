@@ -1,5 +1,0 @@
-from Geomerty_Library import GL
-reload(GL)
-
-def createInterface():    
-    return GL.GeomertyLibrary()
